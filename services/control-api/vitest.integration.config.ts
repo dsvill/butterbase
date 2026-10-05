@@ -25,6 +25,7 @@ export default defineConfig({
       'src/__tests__/partner-proxy-forwarder.test.ts',
       'src/__tests__/partner-proxy-pool.test.ts',
       'src/__tests__/partner-proxy-route.test.ts',
+      'src/__tests__/rls-isolation.test.ts',
       'src/__tests__/rls-routes.test.ts',
       'src/__tests__/rls-validator.test.ts',
       'src/__tests__/runtime-db-smoke.test.ts',
